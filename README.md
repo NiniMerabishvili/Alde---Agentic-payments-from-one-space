@@ -1,6 +1,12 @@
+
+https://github.com/user-attachments/assets/62c9f0f7-eebd-4893-a977-5178f313e4b4
 # Alde: agentic payments from one combined balance
 
 Tell the agent what to pay in plain words ("pay my water bill for this month", "buy two ice skating vouchers from Swoop at Leadersport Arena"). It finds the bill or offer, then pays from **all of your linked cards as one balance**. Cards are drained in your priority order (₾24 = BOG ₾20 + TBC ₾4), so you never move money between banks yourself.
+
+
+https://github.com/user-attachments/assets/30b6ed06-3e5c-4bf4-9e72-f492cbc3ee05
+
 
 ## Run
 
